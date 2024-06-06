@@ -107,4 +107,10 @@ Index.cshtml
 Edit.cshtml
 
 
+After that when running the app, output is appear as expected and we can add, edit
+delete or see the details of that particular new Rating field..
+and it gives output as expected
+
+Part--9 started
 Repository created
+
